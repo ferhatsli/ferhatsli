@@ -1,5 +1,5 @@
 
-Hello, I'm Ferhat ! 👋<br><br>- 📚 I am a software engineering student in Istanbul, Turkey.<br>- 💻 I am currently learning UIkit and developing projects in this field.<br>- 🧠 I am also doing research on Artificial Intelligence (LLM) and Machine Learning (LM).<br>- 🎓 I am a 4rd year student in the Software Engineering department at Istinye University.<br>- 💡 I love coding and learning technology and I try to learn new things every day..
+Hello, I'm Ferhat ! 👋<br><br>- 📚 I am a software engineering student in Istanbul, Turkey.<br>- 💻 I am currently learning SwfitUI and developing projects in this field.<br>- 🧠 I am also doing research on Artificial Intelligence (LLM) and Machine Learning (LM).<br>- 🎓 I am a 4rd year student in the Software Engineering department at Istinye University.<br>- 💡 I love coding and learning technology and I try to learn new things every day..
 
 
 ## 🌐 Socials:
