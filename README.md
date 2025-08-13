@@ -1,5 +1,5 @@
 Hello, I'm Ferhat! 👋<br><br>
-- 🎓 I am a final-year Software Engineering student based in Istanbul, graduating in July 2025.<br>
+- 🎓 I am a newly graduated Software Engineer living in Istanbul.<br>
 - 💻 I develop production-ready mobile and web apps using SwiftUI, React, Laravel, and Python.<br>
 - 🧠 I’ve worked on AI-based projects involving transcript analysis, LLM-powered content generation, and full-stack integration.<br>
 - 🚀 I have hands-on experience through internships and freelance projects, including iOS apps, AI platforms, and websites.<br>
